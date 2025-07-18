@@ -1,6 +1,5 @@
 import type { Place } from "./api/Place"
 
-
 interface MapProps{
     place:Place | null
 }
