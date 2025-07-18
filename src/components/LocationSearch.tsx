@@ -43,7 +43,7 @@ export default function LocationSearch({ onPlaceClick }: LocationSearchProps) {
                                     </button>
                                     <div className="border-b w-full col-span-2"/>
                                         
-                                <Fragment/>
+                                </Fragment>
                         })
                     }
             </div>
